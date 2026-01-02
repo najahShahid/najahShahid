@@ -1,7 +1,6 @@
 ## Hi, I'm Najah Shahid 👋
 
-I'm a Computer Science undergraduate at LUMS with experience in  
-full-stack development, AI/ML, and computer vision, and I'm currently
+I'm a Computer Science undergraduate at LUMS with experience in full-stack development, AI/ML, and computer vision, and I'm currently
 actively working with Flutter to build cross-platform applications.
 
 I enjoy building complete, real-world systems, from backend APIs and
